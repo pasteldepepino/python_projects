@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pasteldepepino
-- 👀 I’m interested in programing and video games
+- 👀 I’m interested in programing 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
